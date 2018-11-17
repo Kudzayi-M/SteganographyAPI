@@ -5,7 +5,7 @@
 ########## Notes ###########
 # - For every 2 bits in the file that is to be concealed, takes up one byte of the file it takes up
 #       this means that every byte of the concealed file will take up 4 bytes of the concealer file.
-# - Due to the above point, concealed files can only be very small, not realative to the size of the concelaer (I think).
+# - Due to the above point, concealed files can only be very small, not realative to the size of the concelaer(I think).
 #       Note that efforts will be made in the future to be able to write more inside of a concealer file
 #       as I feel that this is the cause of a bug in the code rather than lack of bytes to replace
 
